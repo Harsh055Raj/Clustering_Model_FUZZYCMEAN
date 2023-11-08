@@ -12,7 +12,7 @@ Is based of the cpncept of deriving the core concept from K mean clustering and 
 
 ## RESULTS
 
-<img width="238" alt="image" src="https://github.com/Harsh055Raj/Clustering_Model_FUZZYCMEAN/assets/95955195/397dcd03-966c-46ec-b583-fdd5da33d267">
+<img width="248" alt="image" src="https://github.com/Harsh055Raj/Clustering_Model_FUZZYCMEAN/assets/95955195/397dcd03-966c-46ec-b583-fdd5da33d267">
 
 
 
